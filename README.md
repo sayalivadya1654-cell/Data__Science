@@ -47,6 +47,6 @@ data-science/
 
 ## 📝 About
 
-This repository is updated regularly as I learn new concepts, solve practice problems, and work on projects. Every commit represents meaningful progress in my Data Science learning journey.
+This repository is updated regularly as I learn new concepts, solve practice problems, and work on projects. Every commit represents meaningful progress in my Data Science learning journey.    
 
 
