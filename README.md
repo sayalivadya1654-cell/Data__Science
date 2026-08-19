@@ -10,8 +10,6 @@ This repository documents my learning journey in Data Science. It includes my no
 * ⚡ Advanced Python
 * 🗄️ SQL
 * 📈 Statistics
-* 🔢 NumPy
-* 🐼 Pandas
 * 📊 Data Visualization
 * 🤖 Machine Learning
 * 🧠 Deep Learning (Coming Soon)
@@ -47,6 +45,6 @@ data-science/
 
 ## 📝 About
 
-This repository is updated regularly as I learn new concepts, solve practice problems, and work on projects. Every commit represents meaningful progress in my Data Science learning journey.    
+This repository is updated regularly as I learn new concepts, solve practice problems, and work on projects. Every commit represents meaningful progress in my Data Science learning journey.     
 
 
